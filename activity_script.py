@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import datetime
 
 # Replace with your GitHub username
-username = "saishankargogada"  #your_github_username
+username = "jackvector634"  #your_github_username
 
 # Define the date range for fetching data
 start_date = "2023-01-01"  # Start date for fetching data
